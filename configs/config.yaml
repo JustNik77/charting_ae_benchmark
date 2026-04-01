@@ -1,0 +1,8 @@
+defaults:
+  - model: charting_ae
+  - trainer: default
+  - _self_
+
+seed: 42
+data_path: null
+save_path: null

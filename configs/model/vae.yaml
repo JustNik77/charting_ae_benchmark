@@ -1,0 +1,5 @@
+_target_: src.models.vae.VAE
+input_dim: 24
+latent_dim: 3
+hidden_dim: 64
+alpha: 1.0

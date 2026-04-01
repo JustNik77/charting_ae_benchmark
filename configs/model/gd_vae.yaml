@@ -1,0 +1,4 @@
+_target_: src.models.gd_vae.GDVAE
+input_dim: 24
+latent_dim: 3
+hidden_dim: 64

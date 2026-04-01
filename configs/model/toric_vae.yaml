@@ -1,0 +1,4 @@
+_target_: src.models.toric_vae.ToricAE
+input_dim: 24
+latent_angles: 2
+hidden_dim: 64

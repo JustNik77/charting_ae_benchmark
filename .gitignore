@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# MacOS
+.DS_Store
+
+# Logs / metrics
+*.log
+metrics.json
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+
+# Training/evaluation outputs
+outputs/
+
+# Data
+data/
+*.npy
+*.npz
+*.csv
+
+# Generated images / plots
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# IDE
+.vscode/
+.idea/

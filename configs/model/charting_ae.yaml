@@ -1,0 +1,8 @@
+_target_: src.models.charting_ae.ChartingAE
+input_dim: 24
+latent_dim: 3
+hidden_dim: 64
+n_charts: 4
+alpha: 1.0
+gamma: 0.1
+beta: 0.05
